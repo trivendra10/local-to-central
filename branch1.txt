@@ -1,1 +1,1 @@
-puplic static void main 
+puplic static void main local to central
